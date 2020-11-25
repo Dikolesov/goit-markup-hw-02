@@ -178,7 +178,9 @@ footer .logo {
   font-size: 16px;
   line-height: 1.19;
 }
-
+.team-cards {
+  background-color: var(--primary-bgc);
+}
 /* ================ Наша команда конец  ================ */
 
 /* ================ футер  ================ */
